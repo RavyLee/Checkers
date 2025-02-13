@@ -14,6 +14,6 @@
         "Optimization": "O1"
     },
     "Game": {
-        "MaxNumTurns": 120
+      "MaxNumTurns": 120
     }
 }
